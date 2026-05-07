@@ -5,7 +5,17 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+dropdown: true
+children:
+  - title: Urban Canyon
+    permalink: /projects/1_project/
+  - title: Low-emissivity
+    permalink: /projects/2_project/
+  - title: Radiative Cooling
+    permalink: /projects/3_project/
+  - title: Smart Windows
+    permalink: /projects/4_project/
+display_categories: [work]
 horizontal: false
 ---
 

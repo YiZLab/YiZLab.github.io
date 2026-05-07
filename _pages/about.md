@@ -27,8 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently a postdoctoral fellow in Prof. Xiaobo Yin’s group at The University of Hong Kong, and will join Beijing Institute of Technology, Zhuhai in July as a Teli Young Scholar. My research revolves around radiative heat transfer—an obsession that began with my training in engineering thermophysics at Xi’an Jiaotong University and grew under the generous guidance of Prof. Christopher Chao and Prof. Xiaobo Yin. I work on optical and thermal materials that help buildings, cities, and people manage heat more intelligently: from energy-saving façades and urban canyon cooling to textiles that keep us cooler in summer and warmer in winter. While many of my projects are application-driven, I am equally fascinated by the fundamental optics and thermodynamics behind thermal radiation. Curiosity is my main fuel: I enjoy asking how heat, light, and materials conspire to shape the world around us. And when that curiosity leads to technologies that may actually make life better, that is the best bonus.
