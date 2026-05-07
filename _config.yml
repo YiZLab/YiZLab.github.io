@@ -280,7 +280,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Zhang]
-  first_name: [Yi, Y, Y.]
+  first_name: ["Yi", "Y.", "Y"]
 
   style: apa
   locale: en

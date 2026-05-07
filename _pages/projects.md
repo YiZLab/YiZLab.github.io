@@ -64,12 +64,16 @@ horizontal: false
     {% endfor %}
     </div>
   </div>
-  {% else %}
+
+{% else %}
+
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
   </div>
-  {% endif %}
+
+{% endif %}
+
 {% endif %}
 </div>

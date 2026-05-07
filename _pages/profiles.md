@@ -9,7 +9,7 @@ nav_order: 7
 profiles:
   - align: right
     image: prof_pic.jpg
-    content: about.md
+    content: my_bio.md
     image_circular: false
     more_info: >
       <p>COB109, composite building</p>
