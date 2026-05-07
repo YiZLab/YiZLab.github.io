@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://YiLab.github.io/sitemap.xml
+Sitemap: https://YiZLab.github.io/sitemap.xml
