@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: ABOUT
 title: ABOUT
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
