@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: RESEARCH
 permalink: /research/
 description: Research projects and areas of interest.
 nav: true
