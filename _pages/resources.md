@@ -7,7 +7,8 @@ nav: true
 nav_order: 8
 ---
 
-## Big guys in the field
+<details open>
+  <summary>Big guys in the field</summary>
 
 - [Ren Zhifeng](https://sites.google.com/nsm.uh.edu/ren/home) — University of Houston；纳米尺度热输运、声子学、热电/能量转换
 - [Yu Zongfu](https://photonics.engr.wisc.edu/index.html) — University of Wisconsin–Madison；纳米光子学、超材料/超表面、热辐射调控
@@ -52,3 +53,39 @@ nav_order: 8
 - [John Lienhard](https://lienhard.mit.edu/) — Massachusetts Institute of Technology；机械工程，传热与热力学、海水淡化与水处理、能量系统
 - [Evelyn Wang](https://drl.mit.edu/) — Massachusetts Institute of Technology；机械工程，相变传热、微纳尺度传热、热管理与水-能系统
 - [Sumanjeet Kaur](https://thermalenergy.lbl.gov/) — Lawrence Berkeley National Laboratory；热能与建筑能源方向，建筑热能/传热、节能与热管理
+
+</details>
+
+<details open>
+  <summary>Database</summary>
+
+- Daily surface air temperature: https://climatereanalyzer.org/clim/t2_daily/?dm_id=world
+- Surface air temperature maps: https://climate.copernicus.eu/surface-air-temperature-maps
+- 3D Hong Kong map: https://3d.map.gov.hk/
+- Hong Kong Geoinfo map: https://www.map.gov.hk/gm/map/
+- Hong Kong Environmental Database: https://hked.epd.gov.hk/map/en/Map
+- Hong Kong Spatial Data: https://www.landsd.gov.hk/en/spatial-data/open-data.html
+- Hong Kong Spatial Data: https://opendata.esrichina.hk/
+- Hong Kong Observatory: https://www.hko.gov.hk/en/index.html
+- 3D building in the world: https://v2.3dcityloader.com/map
+- Worldwide map: https://cadmapper.com/
+- View factors: https://www.thermalradiation.net/indexCat.html
+- Matlab view factors: https://ww2.mathworks.cn/matlabcentral/fileexchange/5664-view-factors
+- Thermal control for spacecraft: https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control/
+
+</details>
+
+<details open>
+  <summary>Online courses</summary>
+
+Coming soon.
+
+</details>
+
+<details open>
+  <summary>Codes</summary>
+
+- Design broadband thin-film spectral filters: https://github.com/YuJerryShi/thin_film_memetic_optimization
+- Gradient atmospheric model for radiative cooling: https://zenodo.org/records/15620535
+
+</details>
