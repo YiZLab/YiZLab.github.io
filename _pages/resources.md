@@ -5,10 +5,21 @@ permalink: /resources/
 description: professor homepages and useful links
 nav: true
 nav_order: 8
+dropdown: true
+children:
+  - title: Big guys in the field
+    permalink: /resources/#big-guys-in-the-field
+  - title: Database
+    permalink: /resources/#database
+  - title: Codes
+    permalink: /resources/#codes
+  - title: Online courses
+    permalink: /resources/#online-courses
 ---
 
-<details open>
-  <summary>Big guys in the field</summary>
+<a id="big-guys-in-the-field"></a>
+
+## Big guys in the field
 
 - [Ren Zhifeng](https://sites.google.com/nsm.uh.edu/ren/home) — University of Houston；纳米尺度热输运、声子学、热电/能量转换
 - [Yu Zongfu](https://photonics.engr.wisc.edu/index.html) — University of Wisconsin–Madison；纳米光子学、超材料/超表面、热辐射调控
@@ -54,10 +65,9 @@ nav_order: 8
 - [Evelyn Wang](https://drl.mit.edu/) — Massachusetts Institute of Technology；机械工程，相变传热、微纳尺度传热、热管理与水-能系统
 - [Sumanjeet Kaur](https://thermalenergy.lbl.gov/) — Lawrence Berkeley National Laboratory；热能与建筑能源方向，建筑热能/传热、节能与热管理
 
-</details>
+<a id="database"></a>
 
-<details open>
-  <summary>Database</summary>
+## Database
 
 - Daily surface air temperature: https://climatereanalyzer.org/clim/t2_daily/?dm_id=world
 - Surface air temperature maps: https://climate.copernicus.eu/surface-air-temperature-maps
@@ -73,19 +83,15 @@ nav_order: 8
 - Matlab view factors: https://ww2.mathworks.cn/matlabcentral/fileexchange/5664-view-factors
 - Thermal control for spacecraft: https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control/
 
-</details>
+<a id="online-courses"></a>
 
-<details open>
-  <summary>Online courses</summary>
+## Online courses
 
 Coming soon.
 
-</details>
+<a id="codes"></a>
 
-<details open>
-  <summary>Codes</summary>
+## Codes
 
 - Design broadband thin-film spectral filters: https://github.com/YuJerryShi/thin_film_memetic_optimization
 - Gradient atmospheric model for radiative cooling: https://zenodo.org/records/15620535
-
-</details>
