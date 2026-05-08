@@ -7,11 +7,7 @@ nav: true
 nav_order: 8
 ---
 
-## 国内（Mainland China）
-
-- （待添加）
-
-## 海外（International）
+## Big guys in the field
 
 - [Ren Zhifeng](https://sites.google.com/nsm.uh.edu/ren/home)
 - [Yu Zongfu](https://photonics.engr.wisc.edu/index.html)
