@@ -7,10 +7,12 @@ nav: false
 ---
 
 - [Alon Gorodetsky](https://gorodetskygroup.org/) — University of California, Irvine；仿生材料、光学功能材料、聚合物/界面
+- [Benjamin Palmer](https://www.benjaminpalmerlab.com/) — （以主页信息为准）；材料/化学方向，纳米材料与能源相关功能材料
 - [Cai Lili](https://cai.mechse.illinois.edu/) — University of Illinois Urbana-Champaign；机械工程，声子与热输运、热电、二维材料
+- [Dan Wasserman](https://sites.utexas.edu/wasserman/) — The University of Texas at Austin；电气与计算机工程，红外光子学、超表面、热辐射/发射器
 - [David Cahill](https://cahill.matse.illinois.edu/) — University of Illinois Urbana-Champaign；材料科学与工程，热输运/声子学、超快激光热测量、热界面
 - [David Clarke](https://clarke.seas.harvard.edu/) — Harvard University；材料科学与工程（陶瓷/铁电/高温材料）、热障涂层
-- [Dan Wasserman](https://sites.utexas.edu/wasserman/) — The University of Texas at Austin；电气与计算机工程，红外光子学、超表面、热辐射/发射器
+- [Dimos Poulikakos](https://ltnt.ethz.ch/) — ETH Zürich；微纳尺度传热、热管理、能量系统
 - [Elie Bou Zeid](https://tune.cee.princeton.edu/) — Princeton University；土木与环境工程，城市气象/边界层、湍流、城市热环境
 - [Eli Yablonovitch](https://scholar.google.com/citations?hl=en&user=4wqIUjMAAAAJ&view_op=list_works&sortby=pubdate) — University of California, Berkeley；光子学与半导体光学、光伏/太阳能、光学共振结构
 - [Evelyn Wang](https://drl.mit.edu/) — Massachusetts Institute of Technology；机械工程，相变传热、微纳尺度传热、热管理与水-能系统
@@ -23,10 +25,11 @@ nav: false
 - [Jeremy Munday](https://mundaylab.com/) — University of California, Davis；电气与计算机工程，光伏与光能转换、超材料、辐射传热
 - [John Lienhard](https://lienhard.mit.edu/) — Massachusetts Institute of Technology；机械工程，传热与热力学、海水淡化与水处理、能量系统
 - [Jyotirmoy Mandal](https://jyotirmoymandal.com/) — Princeton University；土木与环境工程，辐射传热/热辐射、超材料、被动冷却
+- [Kenneth Goodson](https://nanoheat.stanford.edu/) — Stanford University；机械工程，纳米尺度传热、热电与热管理
+- [Kyle Daun](https://uwaterloo.ca/waterloo-laboratory-for-inverse-analysis-and-thermal-sciences/) — University of Waterloo；逆问题、热辐射/传热、热科学
 - [Lauren Zarzar](https://www.zarzarlab.com/) — Penn State University；材料化学/软物质、结构色/光子结构、响应材料
 - [Li Tian](https://www.tianliresearch.com/) — Purdue University；机械工程，热管理与辐射调控、可持续功能材料、水/能源相关材料系统
 - [Mat Santamouris](https://msantamouris.blogspot.com/) — UNSW Sydney；建筑环境/可持续建筑，建筑能耗、城市热岛、冷屋面/冷材料
-- [Benjamin Palmer](https://www.benjaminpalmerlab.com/) — （以主页信息为准）；材料/化学方向，纳米材料与能源相关功能材料
 - [Mikhail Kats](https://katsgroup.ece.wisc.edu/home) — University of Wisconsin–Madison；电气与计算机工程，纳米光子学、超表面、热辐射与光谱调控
 - [Mitchell Spearrin](http://spectrum.seas.ucla.edu/) — University of California, Los Angeles；机械与航空工程，燃烧与高温流动、光谱诊断、推进
 - [Morrin Martinelli Gier Memorial Lab](https://www.seas.ucla.edu/~pilon/index.htm) — University of California, Los Angeles；传热/辐射传热、太阳能热利用、能量转换
