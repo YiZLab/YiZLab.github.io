@@ -65,14 +65,35 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "nav-resources",
-          title: "RESOURCES",
-          description: "professor homepages and useful links",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/resources/";
-          },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "dropdown-big-guys-in-the-field",
+              title: "Big guys in the field",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/resources/#big-guys-in-the-field";
+              },
+            },{id: "dropdown-database",
+              title: "Database",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/resources/#database";
+              },
+            },{id: "dropdown-codes",
+              title: "Codes",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/resources/#codes";
+              },
+            },{id: "dropdown-online-courses",
+              title: "Online courses",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/resources/#online-courses";
+              },
+            },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
