@@ -70,28 +70,28 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/resources/#big-guys-in-the-field";
+                window.location.href = "/resources/big-guys/";
               },
             },{id: "dropdown-database",
               title: "Database",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/resources/#database";
+                window.location.href = "/resources/database/";
               },
             },{id: "dropdown-codes",
               title: "Codes",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/resources/#codes";
+                window.location.href = "/resources/codes/";
               },
             },{id: "dropdown-online-courses",
               title: "Online courses",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/resources/#online-courses";
+                window.location.href = "/resources/online-courses/";
               },
             },{id: "post-a-post-with-plotly-js",
         
