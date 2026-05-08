@@ -24,11 +24,13 @@ nav: false
 - [Jaeho Lee](https://lee.eng.uci.edu/) — University of California, Irvine；机械与航空工程，传热与多相流、微纳尺度热管理
 - [Jeremy Munday](https://mundaylab.com/) — University of California, Davis；电气与计算机工程，光伏与光能转换、超材料、辐射传热
 - [John Lienhard](https://lienhard.mit.edu/) — Massachusetts Institute of Technology；机械工程，传热与热力学、海水淡化与水处理、能量系统
+- [Jean-Jacques Greffet](https://www.lcf.institutoptique.fr/en/quantumnano) — （以主页信息为准）；热辐射/纳米光子学
 - [Jyotirmoy Mandal](https://jyotirmoymandal.com/) — Princeton University；土木与环境工程，辐射传热/热辐射、超材料、被动冷却
 - [Kenneth Goodson](https://nanoheat.stanford.edu/) — Stanford University；机械工程，纳米尺度传热、热电与热管理
 - [Kyle Daun](https://uwaterloo.ca/waterloo-laboratory-for-inverse-analysis-and-thermal-sciences/) — University of Waterloo；逆问题、热辐射/传热、热科学
 - [Lauren Zarzar](https://www.zarzarlab.com/) — Penn State University；材料化学/软物质、结构色/光子结构、响应材料
 - [Li Tian](https://www.tianliresearch.com/) — Purdue University；机械工程，热管理与辐射调控、可持续功能材料、水/能源相关材料系统
+- [Li Baowen](https://faculty.sustech.edu.cn/?tagid=libw&iscss=1&snapid=1&orderby=date&go=2) — Southern University of Science and Technology；统计物理、热输运、声子学
 - [Mat Santamouris](https://msantamouris.blogspot.com/) — UNSW Sydney；建筑环境/可持续建筑，建筑能耗、城市热岛、冷屋面/冷材料
 - [Mikhail Kats](https://katsgroup.ece.wisc.edu/home) — University of Wisconsin–Madison；电气与计算机工程，纳米光子学、超表面、热辐射与光谱调控
 - [Mitchell Spearrin](http://spectrum.seas.ucla.edu/) — University of California, Los Angeles；机械与航空工程，燃烧与高温流动、光谱诊断、推进
