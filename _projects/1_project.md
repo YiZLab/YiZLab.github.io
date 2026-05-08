@@ -18,6 +18,15 @@ related_publications: true
     less comfortable, and buildings harder to cool.
   </p>
 
+  {%
+    include figure.liquid
+    loading="eager"
+    path="assets/img/Urban canyon_1.jpg"
+    class="img-fluid rounded z-depth-1"
+    alt="Design and fabricated prototype of SRR-TLE façade tiles"
+    caption="<strong>SRR–TLE façade design.</strong> A layered tile combines a solar-transmissive low-E film, a retro-reflective board, and a reflective backing layer to control solar and thermal radiation simultaneously."
+  %}
+
   <p>
     We asked a simple question: instead of only making building façades more reflective or more emissive, can we design
     them to send radiation in the right direction? Our answer is a solar retro-reflective and thermal low-emissivity
@@ -26,6 +35,24 @@ related_publications: true
     like an infrared mirror, redirecting heat emitted by the hot pavement toward the cold sky instead of letting it be
     absorbed by cooler walls.
   </p>
+
+  {%
+    include figure.liquid
+    loading="eager"
+    path="assets/img/Urban canyon_2.jpg"
+    class="img-fluid rounded z-depth-1"
+    alt="Infrared image of a hot urban canyon in Hong Kong"
+    caption="<strong>The problem: trapped heat in urban canyons.</strong> Infrared imaging shows that pavements can become much hotter than surrounding façades, making ground-emitted thermal radiation a key contributor to street-level heat stress."
+  %}
+
+  {%
+    include figure.liquid
+    loading="eager"
+    path="assets/img/Urban canyon_3.jpg"
+    class="img-fluid rounded z-depth-1"
+    alt="Longwave radiation control by low-emissivity specular walls"
+    caption="<strong>Longwave strategy.</strong> Conventional high-emissivity walls absorb thermal radiation from the hot ground, while low-E specular walls redirect it toward the sky, helping the canyon release heat more efficiently."
+  %}
 
   <p>
     This gives an interesting twist to conventional cooling intuition: a low-emissivity wall can help an urban canyon
@@ -36,41 +63,12 @@ related_publications: true
     urban geometry.
   </p>
 
-  <div class="research-gallery">
-    <figure>
-      <img src="/assets/img/Urban%20canyon_1.jpg" alt="Design and fabricated prototype of SRR-TLE façade tiles">
-      <figcaption>
-        <strong>SRR–TLE façade design.</strong>
-        A layered tile combines a solar-transmissive low-E film, a retro-reflective board, and a reflective backing layer
-        to control solar and thermal radiation simultaneously.
-      </figcaption>
-    </figure>
-
-    <figure>
-      <img src="/assets/img/Urban%20canyon_2.jpg" alt="Infrared image of a hot urban canyon in Hong Kong">
-      <figcaption>
-        <strong>The problem: trapped heat in urban canyons.</strong>
-        Infrared imaging shows that pavements can become much hotter than surrounding façades, making ground-emitted
-        thermal radiation a key contributor to street-level heat stress.
-      </figcaption>
-    </figure>
-
-    <figure>
-      <img src="/assets/img/Urban%20canyon_3.jpg" alt="Longwave radiation control by low-emissivity specular walls">
-      <figcaption>
-        <strong>Longwave strategy.</strong>
-        Conventional high-emissivity walls absorb thermal radiation from the hot ground, while low-E specular walls
-        redirect it toward the sky, helping the canyon release heat more efficiently.
-      </figcaption>
-    </figure>
-
-    <figure>
-      <img src="/assets/img/Urban%20canyon_4.jpg" alt="Shortwave radiation control by retro-reflective façades">
-      <figcaption>
-        <strong>Shortwave strategy.</strong>
-        Diffuse reflective walls scatter sunlight deeper into the canyon, whereas retro-reflective walls send sunlight
-        back toward its source and reduce solar trapping.
-      </figcaption>
-    </figure>
-  </div>
+  {%
+    include figure.liquid
+    loading="eager"
+    path="assets/img/Urban canyon_4.jpg"
+    class="img-fluid rounded z-depth-1"
+    alt="Shortwave radiation control by retro-reflective façades"
+    caption="<strong>Shortwave strategy.</strong> Diffuse reflective walls scatter sunlight deeper into the canyon, whereas retro-reflective walls send sunlight back toward its source and reduce solar trapping."
+  %}
 </section>
