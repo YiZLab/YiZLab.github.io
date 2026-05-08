@@ -13,4 +13,7 @@ nav_order: 8
 
 ## 海外（International）
 
-- Ren Zhifeng — https://sites.google.com/nsm.uh.edu/ren/home
+- [Ren Zhifeng](https://sites.google.com/nsm.uh.edu/ren/home)
+- [Yu Zongfu](https://photonics.engr.wisc.edu/index.html)
+- [David Clarke](https://clarke.seas.harvard.edu/)
+- [Lauren Zarzar](https://www.zarzarlab.com/)
