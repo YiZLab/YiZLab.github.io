@@ -8,74 +8,68 @@ category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<section class="research-project low-emissivity">
+  <h2>Low-Emissivity Materials: Thermal Mirrors for Everyday Life</h2>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+  <p>
+    We all know the feeling: standing near a hot wall in summer, sitting beside a cold window in winter, or wearing
+    clothes that somehow feel too hot outside but not warm enough indoors. A large part of this comfort problem comes
+    from thermal radiation—the invisible infrared light constantly exchanged between our bodies, buildings, and the
+    surrounding environment.
+  </p>
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+  <p>
+    Low-emissivity, or low-E, materials work like thermal mirrors. They do not simply block heat like a thick blanket;
+    instead, they reflect infrared radiation to reduce unwanted heat exchange. This makes them useful for keeping
+    buildings cooler in summer and warmer in winter, and for making clothing more thermally comfortable. My work
+    explores both new and traditional ways to create low-E materials, from smart building coatings to wearable textiles.
+  </p>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div class="research-subproject">
+    <h3>Metal-Free Low-E Coatings for Smart Buildings</h3>
+    <p>
+      Conventional low-E coatings usually rely on metals or conductive oxides, which are excellent thermal mirrors but
+      unfortunately also block wireless signals. That is not ideal for modern buildings full of Wi-Fi, 5G, sensors, and
+      smart devices.
+    </p>
+    <p>
+      To address this trade-off, we developed a metal-free polymer–ceramic coating made from zinc sulfide particles,
+      polyethylene, and tiny air voids. Instead of using free electrons in metals, this coating reflects thermal infrared
+      radiation through multiple scattering—somewhat like how snow looks white because it scatters visible light many
+      times. The result is a low-E coating that provides thermal insulation while still allowing radio-frequency signals
+      to pass through. In simple terms: a wall that reflects heat, but does not kill your Wi-Fi.
+    </p>
   </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
 
-{% endraw %}
+  <div class="research-subproject">
+    <h3>All-Polymer Low-E Textiles</h3>
+    <p>
+      Low-E clothing is usually made by adding metallic layers, similar to the shiny emergency blankets used after
+      marathons. These materials can reflect body heat, but they are often shiny, stiff, and vulnerable to washing or
+      mechanical damage.
+    </p>
+    <p>
+      We developed an all-polymer low-E textile based on polyethylene microfibers. By controlling the molecular
+      structure, crystallinity, and fiber size, the textile can scatter and reflect human-body thermal radiation without
+      using any metal. It looks like an ordinary fabric, but behaves like a soft thermal mirror. This approach opens a
+      route toward durable, washable, and lightweight clothing that can reduce radiative heat gain in hot urban
+      environments and suppress body heat loss in cold conditions.
+    </p>
+  </div>
+
+  <div class="research-subproject">
+    <h3>Radiative Warming and Energy-Harvesting Textiles</h3>
+    <p>
+      In an earlier work, we used a more traditional low-E strategy based on a metallic conductive textile. The metal
+      layer reflects infrared radiation and reduces heat loss from the human body, while a photothermal layer absorbs
+      sunlight and converts it into warmth. We further integrated a triboelectric layer, allowing the textile to harvest
+      small amounts of electricity from body motion.
+    </p>
+    <p>
+      This textile was designed for cold environments: it keeps the wearer warm through both passive radiative
+      insulation and solar heating, while also offering a simple route toward self-powered wearable electronics.
+      Compared with the newer metal-free studies above, this work used a more conventional low-E mechanism, but combined
+      it with multifunctional textile design.
+    </p>
+  </div>
+</section>
