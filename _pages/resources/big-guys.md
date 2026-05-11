@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Big guys in the field
+title: Big names in the field
 permalink: /resources/big-guys/
 description: professor homepages
 nav: false
@@ -24,6 +24,7 @@ nav: false
 - [Jaeho Lee](https://lee.eng.uci.edu/) — University of California, Irvine；机械与航空工程，传热与多相流、微纳尺度热管理
 - [Jeremy Munday](https://mundaylab.com/) — University of California, Davis；电气与计算机工程，光伏与光能转换、超材料、辐射传热
 - [John Lienhard](https://lienhard.mit.edu/) — Massachusetts Institute of Technology；机械工程，传热与热力学、海水淡化与水处理、能量系统
+- [John D. Joannopoulos](http://ab-initio.mit.edu/about.html) — Massachusetts Institute of Technology；物理/电磁学与光子学，光子晶体、纳米光子学、计算电磁学
 - [Jean-Jacques Greffet](https://www.lcf.institutoptique.fr/en/quantumnano) — （以主页信息为准）；热辐射/纳米光子学
 - [Jyotirmoy Mandal](https://jyotirmoymandal.com/) — Princeton University；土木与环境工程，辐射传热/热辐射、超材料、被动冷却
 - [Kenneth Goodson](https://nanoheat.stanford.edu/) — Stanford University；机械工程，纳米尺度传热、热电与热管理
