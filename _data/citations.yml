@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-29'
+  last_updated: '2026-06-15'
 papers:
   vjITQY0AAAAJ:9yKSN-GCB0IC:
-    citations: 183
+    citations: 186
     title: 'Perovskite thermochromic smart window: Advanced optical properties and low transition temperature'
     year: '2019'
   vjITQY0AAAAJ:IjCSPb-OGe4C:
@@ -22,7 +22,7 @@ papers:
     title: Bio-inspired cooling technologies and the applications in buildings
     year: '2020'
   vjITQY0AAAAJ:UebtZRa9Y70C:
-    citations: 10
+    citations: 11
     title: Scalable low-emissivity and RF-transparent dielectric coatings for year-round energy-saving buildings under all weather conditions
     year: '2025'
   vjITQY0AAAAJ:W7OEmFMy1HYC:
@@ -34,15 +34,19 @@ papers:
     title: "Scattering\u2010Enhanced Light Extraction for Radiative Thermal Load Mitigation in Fluorescent Films"
     year: '2025'
   vjITQY0AAAAJ:Y0pCki6q_DkC:
-    citations: 50
+    citations: 51
     title: Energy consumption modelling of a passive hybrid system for office buildings in different climates
     year: '2022'
   vjITQY0AAAAJ:eQOLeE2rZwMC:
     citations: 0
     title: Continuous 24-hour solar photothermal distillation enabled by energy storage
     year: '2025'
+  vjITQY0AAAAJ:hqOjcs7Dif8C:
+    citations: 0
+    title: The role of shading and window-to-wall ratio on the energy-saving potential and daylighting associated with thermochromic smart windows
+    year: '2026'
   vjITQY0AAAAJ:qjMakFHDy7sC:
-    citations: 70
+    citations: 73
     title: Bio-inspired TiO2 nano-cone antireflection layer for the optical performance improvement of VO2 thermochromic smart windows
     year: '2020'
   vjITQY0AAAAJ:roLk4NBRz8UC:
@@ -54,7 +58,7 @@ papers:
     title: Transition metal oxides as catalysts for hydrogen production from supercritical water gasification of glucose
     year: '2017'
   vjITQY0AAAAJ:u5HHmVD_uO8C:
-    citations: 61
+    citations: 60
     title: Supercritical water gasification of black liquor with wheat straw as the supplementary energy resource
     year: '2019'
   vjITQY0AAAAJ:zYLM7Y9cAGgC:
