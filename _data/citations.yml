@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-10'
 papers:
   vjITQY0AAAAJ:9yKSN-GCB0IC:
-    citations: 189
+    citations: 190
     title: 'Perovskite thermochromic smart window: Advanced optical properties and low transition temperature'
     year: '2019'
   vjITQY0AAAAJ:IjCSPb-OGe4C:
@@ -18,11 +18,11 @@ papers:
     title: A large-area versatile textile for radiative warming and biomechanical energy harvesting
     year: '2022'
   vjITQY0AAAAJ:UeHWp8X0CEIC:
-    citations: 106
+    citations: 103
     title: Bio-inspired cooling technologies and the applications in buildings
     year: '2020'
   vjITQY0AAAAJ:UebtZRa9Y70C:
-    citations: 11
+    citations: 4
     title: Scalable low-emissivity and RF-transparent dielectric coatings for year-round energy-saving buildings under all weather conditions
     year: '2025'
   vjITQY0AAAAJ:W7OEmFMy1HYC:
@@ -30,11 +30,11 @@ papers:
     title: Particle resuspension from a flow-induced fluttering flexible substrate
     year: '2023'
   vjITQY0AAAAJ:WF5omc3nYNoC:
-    citations: 2
+    citations: 3
     title: "Scattering\u2010Enhanced Light Extraction for Radiative Thermal Load Mitigation in Fluorescent Films"
     year: '2025'
   vjITQY0AAAAJ:Y0pCki6q_DkC:
-    citations: 52
+    citations: 57
     title: Energy consumption modelling of a passive hybrid system for office buildings in different climates
     year: '2022'
   vjITQY0AAAAJ:eQOLeE2rZwMC:
@@ -46,15 +46,15 @@ papers:
     title: The role of shading and window-to-wall ratio on the energy-saving potential and daylighting associated with thermochromic smart windows
     year: '2026'
   vjITQY0AAAAJ:qjMakFHDy7sC:
-    citations: 73
+    citations: 69
     title: Bio-inspired TiO2 nano-cone antireflection layer for the optical performance improvement of VO2 thermochromic smart windows
     year: '2020'
   vjITQY0AAAAJ:roLk4NBRz8UC:
-    citations: 2
+    citations: 3
     title: Daytime radiative freezing
     year: '2025'
   vjITQY0AAAAJ:u-x6o8ySG0sC:
-    citations: 40
+    citations: 41
     title: Transition metal oxides as catalysts for hydrogen production from supercritical water gasification of glucose
     year: '2017'
   vjITQY0AAAAJ:u5HHmVD_uO8C:
@@ -62,6 +62,6 @@ papers:
     title: Supercritical water gasification of black liquor with wheat straw as the supplementary energy resource
     year: '2019'
   vjITQY0AAAAJ:zYLM7Y9cAGgC:
-    citations: 83
+    citations: 84
     title: Potential passive cooling methods based on radiation controls in buildings
     year: '2022'
